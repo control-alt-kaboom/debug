@@ -1,0 +1,21 @@
+{
+    "name": "Control-Alt-Kaboom/Debug",
+    "description": "A simple php debuging module",
+    "license": "MIT",
+    "keywords": ["ControlAltKaboom", "Control-Alt-Kaboom", "debug"],
+    "authors": [
+        {
+            "name": "Brian Snopek",
+            "email": "brian.snopek@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ControlAltKaboom\\Debug\\": "src"
+        }
+    }
+}
