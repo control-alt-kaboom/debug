@@ -1,8 +1,8 @@
 {
-    "name": "Control-Alt-Kaboom/Debug",
+    "name": "control-alt-kaboom/debug",
     "description": "A simple php debuging module",
     "license": "MIT",
-    "keywords": ["ControlAltKaboom", "Control-Alt-Kaboom", "debug"],
+    "keywords": ["ControlAltKaboom", "Control-Alt-Kaboom", "control-alt-kaboom", "debug"],
     "authors": [
         {
             "name": "Brian Snopek",
