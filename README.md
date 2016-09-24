@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ControlAltKaboom/Debug
 
 This package provides a simple means of generating debug-output from within your application when external tools (such as xDebug) are not available.
@@ -71,3 +72,7 @@ Debug::instance()->showLog();
 
 
 
+=======
+# debug
+A simple php debugging module
+>>>>>>> 3765c96a1a426ea54c61cf9a3ad81d3565420462
